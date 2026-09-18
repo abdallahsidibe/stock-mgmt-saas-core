@@ -7,11 +7,11 @@ import com.tech.saas.services.TenantService;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PatchMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -21,23 +21,32 @@ import org.springframework.web.bind.annotation.RestController;
 @RequiredArgsConstructor
 @PreAuthorize("hasRole('PLATFORM_ADMIN')")
 @Tag(name = "Tenant", description = "Tenant API")
-public class  TenantController {
+public class TenantController {
 
     private final TenantService service;
 
     @PostMapping("/approve/{tenant-id}")
     public ResponseEntity<Void> approveTenant(
             @PathVariable("tenant-id")
-            final String  tenantId
+            final String tenantId
     ) {
         this.service.approveTenant(tenantId);
+        return ResponseEntity.ok().build();
+    }
+
+    @PostMapping("/seed-demo/{tenant-id}")
+    public ResponseEntity<Void> seedTenantDemoData(
+            @PathVariable("tenant-id")
+            final String tenantId
+    ) {
+        this.service.seedTenantDemoData(tenantId);
         return ResponseEntity.ok().build();
     }
 
     @PatchMapping("/activate/{tenant-id}")
     public ResponseEntity<Void> activateTenant(
             @PathVariable("tenant-id")
-            final String  tenantId
+            final String tenantId
     ) {
         this.service.activateTenant(tenantId);
         return ResponseEntity.ok().build();
@@ -46,7 +55,7 @@ public class  TenantController {
     @PatchMapping("/deactivate/{tenant-id}")
     public ResponseEntity<Void> deactivateTenant(
             @PathVariable("tenant-id")
-            final String  tenantId
+            final String tenantId
     ) {
         this.service.deactivateTenant(tenantId);
         return ResponseEntity.ok().build();
@@ -55,7 +64,7 @@ public class  TenantController {
     @PatchMapping("/suspend/{tenant-id}")
     public ResponseEntity<Void> suspendTenant(
             @PathVariable("tenant-id")
-            final String  tenantId
+            final String tenantId
     ) {
         this.service.suspendTenant(tenantId);
         return ResponseEntity.ok().build();

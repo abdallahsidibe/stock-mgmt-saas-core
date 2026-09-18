@@ -16,5 +16,7 @@ public interface TenantService {
 
     void suspendTenant(final String tenantId);
 
+    void seedTenantDemoData(final String tenantId);
+
     PageResponse<TenantResponse> findAll(final int page, final int size);
 }

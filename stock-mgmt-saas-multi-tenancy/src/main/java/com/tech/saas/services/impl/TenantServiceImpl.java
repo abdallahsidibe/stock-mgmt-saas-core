@@ -14,11 +14,13 @@ import com.tech.saas.repositories.UserRepository;
 import com.tech.saas.requests.RegisterTenantRequest;
 import com.tech.saas.responses.TenantResponse;
 import com.tech.saas.services.ProvisioningService;
+import com.tech.saas.services.TenantSeedService;
 import com.tech.saas.services.TenantService;
 import com.tech.saas.utils.TenantCodeValidator;
 import jakarta.persistence.EntityNotFoundException;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.ObjectProvider;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.security.crypto.password.PasswordEncoder;
@@ -35,6 +37,7 @@ public class TenantServiceImpl implements TenantService {
     private final PasswordEncoder passwordEncoder;
     private final UserRepository userRepository;
     private final ProvisioningService provisioningService;
+    private final ObjectProvider<TenantSeedService> tenantSeedServiceProvider;
 
     @Override
     @Transactional
@@ -140,6 +143,20 @@ public class TenantServiceImpl implements TenantService {
         tenant.setStatus(TenantStatus.SUSPENDED);
         this.tenantRepository.save(tenant);
         log.info("Suspended tenant '{}'", tenant.getCompanyCode());
+    }
+
+    @Override
+    public void seedTenantDemoData(final String tenantId) {
+        final Tenant tenant = this.tenantRepository.findById(tenantId)
+                .orElseThrow(() -> new EntityNotFoundException("Tenant with ID '" + tenantId + "' does not exist"));
+
+        final TenantSeedService seedService = this.tenantSeedServiceProvider.getIfAvailable();
+        if (seedService == null) {
+            throw new InvalidRequestException("TenantSeedService is not available in current configuration");
+        }
+
+        seedService.seedDemoData(tenant.getCompanyCode());
+        log.info("Seeded demo data for tenant '{}'", tenant.getCompanyCode());
     }
 
     @Override

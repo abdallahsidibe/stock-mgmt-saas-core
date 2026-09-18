@@ -50,6 +50,7 @@ server:
   port: ${SERVER_PORT:8080}
 
 app:
+  seed-demo-data-on-provision: ${SEED_DEMO_DATA:true}
   jwt:
     private-key-path: ${JWT_PRIVATE_KEY_PATH:certs/private_key.pem}
     public-key-path: ${JWT_PUBLIC_KEY_PATH:certs/public_key.pem}

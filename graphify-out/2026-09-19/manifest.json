@@ -1,0 +1,1976 @@
+{
+  ".claude/settings.json": {
+    "mtime": 1789763104.2632432,
+    "seen": 1789772417.286481,
+    "ast_hash": "667bc8566fabb778b59150032008a0bb",
+    "semantic_hash": ""
+  },
+  ".claude/settings.local.json": {
+    "mtime": 1789767485.322102,
+    "seen": 1789772417.286485,
+    "ast_hash": "16afd6bb75a8b46599c37f06a265b8f2",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/.vscode/extensions.json": {
+    "mtime": 1777053357.1893048,
+    "seen": 1789772417.286486,
+    "ast_hash": "d3b118b41884c371c18cbd55e392eb07",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/.vscode/launch.json": {
+    "mtime": 1777053357.1893547,
+    "seen": 1789772417.286487,
+    "ast_hash": "c6799d2f7ae6f5d7a740d1023654bb8d",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/.vscode/mcp.json": {
+    "mtime": 1777053357.1894033,
+    "seen": 1789772417.286488,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/.vscode/tasks.json": {
+    "mtime": 1777053357.1894534,
+    "seen": 1789772417.286489,
+    "ast_hash": "903821282d5c5b46a4673a263eeb9dee",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/angular.json": {
+    "mtime": 1777054245.4213138,
+    "seen": 1789772417.2864902,
+    "ast_hash": "4a56828c1c35624db8f1851e28970e74",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/package.json": {
+    "mtime": 1777053357.1900313,
+    "seen": 1789772417.2864902,
+    "ast_hash": "4920eaffd4ed990e0c4080b72972b3e1",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/api-configuration.ts": {
+    "mtime": 1777053357.1903055,
+    "seen": 1789772417.286491,
+    "ast_hash": "97106123a23473bc768ad5c2909c9c5d",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/base-service.ts": {
+    "mtime": 1777053357.1903522,
+    "seen": 1789772417.286491,
+    "ast_hash": "e1ab264201fdb0452d3270b606aeb061",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/authentication/login.ts": {
+    "mtime": 1777053357.1904616,
+    "seen": 1789772417.2864919,
+    "ast_hash": "3e9b3de98aa10d6a34e9ff139078f902",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/authentication/register.ts": {
+    "mtime": 1777053357.1905184,
+    "seen": 1789772417.2864928,
+    "ast_hash": "cd12eb6350496321391a6dc275110da3",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/category/create-category.ts": {
+    "mtime": 1777053357.1905944,
+    "seen": 1789772417.2864928,
+    "ast_hash": "b2b140bdb92cecb3ee5981387ae2f0c4",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/category/delete-category.ts": {
+    "mtime": 1777053357.1906376,
+    "seen": 1789772417.286494,
+    "ast_hash": "61b6f96d1e0ae4a747e27b07f5ef9a29",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/category/find-all-categories.ts": {
+    "mtime": 1777053357.190682,
+    "seen": 1789772417.286494,
+    "ast_hash": "ca650525d5c3ade11c25be2aaaa41888",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/category/find-category-by-id.ts": {
+    "mtime": 1777053357.1907258,
+    "seen": 1789772417.286495,
+    "ast_hash": "232ea84dadd155e1e56df81b2adbc6bd",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/category/update-category.ts": {
+    "mtime": 1777053357.1907694,
+    "seen": 1789772417.286495,
+    "ast_hash": "9166cac9c37a1dff460b12362e2a18c0",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/product/create-product.ts": {
+    "mtime": 1777053357.1908426,
+    "seen": 1789772417.286496,
+    "ast_hash": "00f7c6297fb8c35877e162afb3eef8c4",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/product/delete-product.ts": {
+    "mtime": 1777053357.1908863,
+    "seen": 1789772417.286496,
+    "ast_hash": "b3ee0804fbfe23157c8312bc3d6bb6f5",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/product/find-all-products.ts": {
+    "mtime": 1777053357.190929,
+    "seen": 1789772417.286497,
+    "ast_hash": "cca37213b4b7f75e2e76eef61f38ffa2",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/product/find-product-by-id.ts": {
+    "mtime": 1777053357.1909764,
+    "seen": 1789772417.286498,
+    "ast_hash": "1e8b25c29cd9873c37ecd4af570fe1f5",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/product/update-product.ts": {
+    "mtime": 1777053357.1910293,
+    "seen": 1789772417.286498,
+    "ast_hash": "211706ef4af0a7371660b32b49e641e9",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/stock-mvt/create-stock-mvt.ts": {
+    "mtime": 1777053357.1911087,
+    "seen": 1789772417.286499,
+    "ast_hash": "ada549d2b605fa4deeb4b2a9265bf2f9",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/stock-mvt/delete-stock-mvt.ts": {
+    "mtime": 1777053357.1911569,
+    "seen": 1789772417.2865,
+    "ast_hash": "25825b1348139f0d8baa73f289194401",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/stock-mvt/find-all-stock-mvts-by-product-id.ts": {
+    "mtime": 1777053357.1912205,
+    "seen": 1789772417.2865,
+    "ast_hash": "1c10c60c445ecb4f3c5a8330e80565f5",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/stock-mvt/find-all-stock-mvts.ts": {
+    "mtime": 1777053357.1912735,
+    "seen": 1789772417.2865012,
+    "ast_hash": "37dd5c19eec7a09bbef61ef232fa3f2d",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/stock-mvt/find-stock-mvt-by-id.ts": {
+    "mtime": 1777053357.1913276,
+    "seen": 1789772417.2865012,
+    "ast_hash": "e0b37be810d3f13ffb114b28149036eb",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/stock-mvt/update-stock-mvt.ts": {
+    "mtime": 1777053357.1913726,
+    "seen": 1789772417.286502,
+    "ast_hash": "ac2edddb34e096f2bc57519b76b8802e",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/tenant/activate-tenant.ts": {
+    "mtime": 1777053357.19145,
+    "seen": 1789772417.2865028,
+    "ast_hash": "3b5bf3e7bebf271aae48bf07cf11762e",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/tenant/approve-tenant.ts": {
+    "mtime": 1777053357.1914961,
+    "seen": 1789772417.2865028,
+    "ast_hash": "e551222a63473079a12255f84942644a",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/tenant/deactivate-tenant.ts": {
+    "mtime": 1777053357.191547,
+    "seen": 1789772417.286504,
+    "ast_hash": "288dac684f744eeaf193d0c5506fe4b3",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/tenant/find-all-tenants.ts": {
+    "mtime": 1777053357.1915925,
+    "seen": 1789772417.286504,
+    "ast_hash": "8769e45c77a8a7958157e9bfb76ecee6",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/tenant/suspend-tenant.ts": {
+    "mtime": 1777053357.1916332,
+    "seen": 1789772417.286505,
+    "ast_hash": "ed88cbef29359953fc31975408795e45",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/user/create-user.ts": {
+    "mtime": 1777053357.1917026,
+    "seen": 1789772417.286505,
+    "ast_hash": "e89a5dbc1ee640f3b1a6031e248793c0",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/user/delete-user.ts": {
+    "mtime": 1777053357.1917474,
+    "seen": 1789772417.286506,
+    "ast_hash": "aae00889e7ce5c1d9864a24a6499d1c0",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/user/disable-user.ts": {
+    "mtime": 1777053357.1917875,
+    "seen": 1789772417.286506,
+    "ast_hash": "789bba782fea334bfe90a6d3148f80ca",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/user/enable-user.ts": {
+    "mtime": 1777053357.191828,
+    "seen": 1789772417.286507,
+    "ast_hash": "e7a6f35109c0312f63a2a7e7026bbc86",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/user/get-all-users.ts": {
+    "mtime": 1777053357.191868,
+    "seen": 1789772417.286507,
+    "ast_hash": "2493036eb8bf04348bce05a306025be6",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/user/get-user-by-id.ts": {
+    "mtime": 1777053357.191911,
+    "seen": 1789772417.286508,
+    "ast_hash": "fdf0aad30d31bd5190d8f1ac9d9dd511",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/fn/user/update-user.ts": {
+    "mtime": 1777053357.1919544,
+    "seen": 1789772417.286508,
+    "ast_hash": "9352dbe48afa67680d7c798a26b760ab",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/functions.ts": {
+    "mtime": 1777053357.1920285,
+    "seen": 1789772417.286509,
+    "ast_hash": "a6eff99ec3dbdfc124fdbfc59b5df277",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models.ts": {
+    "mtime": 1777053357.1920714,
+    "seen": 1789772417.28651,
+    "ast_hash": "8187ac62738811e58ac338f655341eb7",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/category-request.ts": {
+    "mtime": 1777053357.1921475,
+    "seen": 1789772417.28651,
+    "ast_hash": "16caecef02518f33cf88ca24333ff34c",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/category-response.ts": {
+    "mtime": 1777053357.1922023,
+    "seen": 1789772417.2865112,
+    "ast_hash": "14e18947a1e4447185c070ff1d18e684",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/dashboard-stats-response.ts": {
+    "mtime": 1789768260.8215108,
+    "seen": 1789772417.2865121,
+    "ast_hash": "ab91729285eec5d211fd0ca11b7709eb",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/login-request.ts": {
+    "mtime": 1777053357.1922503,
+    "seen": 1789772417.2865121,
+    "ast_hash": "f8610d0ec1c98ed848aa3f31da6a0fb7",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/login-response.ts": {
+    "mtime": 1777053357.1922987,
+    "seen": 1789772417.2865129,
+    "ast_hash": "bc8c1f26d5379997f3885ee8af9d79ab",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/monthly-trend-entry.ts": {
+    "mtime": 1789767873.0328953,
+    "seen": 1789772417.2865129,
+    "ast_hash": "38b99d326b3e131c0f6ebcb5a1c80274",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/page-response-category-response.ts": {
+    "mtime": 1777053357.1923468,
+    "seen": 1789772417.2865138,
+    "ast_hash": "d741909e7de7c905551c29752360948f",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/page-response-product-response.ts": {
+    "mtime": 1777053357.1923995,
+    "seen": 1789772417.2865138,
+    "ast_hash": "89a5d986ca5804dbafa71639bcb68241",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/page-response-stock-mvt-response.ts": {
+    "mtime": 1777053357.1924489,
+    "seen": 1789772417.286515,
+    "ast_hash": "c8ac2907c825a26cbf44fdcc8c8dcd88",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/page-response-tenant-response.ts": {
+    "mtime": 1777053357.1924968,
+    "seen": 1789772417.286515,
+    "ast_hash": "c0b135bfcbf680cd399eea67fc562343",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/page-response-user-response.ts": {
+    "mtime": 1777053357.1925433,
+    "seen": 1789772417.286516,
+    "ast_hash": "a57ecabf376382185d72ccbc312508e2",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/product-request.ts": {
+    "mtime": 1777053357.192593,
+    "seen": 1789772417.286516,
+    "ast_hash": "8407eec803c9fcd55cda4ca117605dc9",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/product-response.ts": {
+    "mtime": 1777053357.1926436,
+    "seen": 1789772417.286517,
+    "ast_hash": "b3123290df81e31c01b817fb70b9dbf3",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/register-tenant-request.ts": {
+    "mtime": 1777053357.1926937,
+    "seen": 1789772417.286517,
+    "ast_hash": "386e6326148386b8944dc72695630c1e",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/stock-mvt-request.ts": {
+    "mtime": 1777053357.1927433,
+    "seen": 1789772417.286518,
+    "ast_hash": "ced0ef125f8610110285615572441f3e",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/stock-mvt-response.ts": {
+    "mtime": 1777053357.192795,
+    "seen": 1789772417.286518,
+    "ast_hash": "565365446f46cff5c45f628b21bc7c3d",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/tenant-response.ts": {
+    "mtime": 1777053357.1928463,
+    "seen": 1789772417.286519,
+    "ast_hash": "dba5c7b2d40d8bf382bc321f1ad4d50d",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/user-request.ts": {
+    "mtime": 1777053357.1929014,
+    "seen": 1789772417.286519,
+    "ast_hash": "a0b4538d689dad96fc311e4b458b34f1",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/models/user-response.ts": {
+    "mtime": 1777053357.1929562,
+    "seen": 1789772417.28652,
+    "ast_hash": "661b9ac08305acdd431e0bb314f52654",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/request-builder.ts": {
+    "mtime": 1777053357.1930459,
+    "seen": 1789772417.2865212,
+    "ast_hash": "5e923fba6f25fadf13485befb27af074",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/services.ts": {
+    "mtime": 1777053357.1931202,
+    "seen": 1789772417.2865212,
+    "ast_hash": "e88d8b87d0773bbaf1467c3292580bd5",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/services/authentication.service.ts": {
+    "mtime": 1777053357.1932497,
+    "seen": 1789772417.2865212,
+    "ast_hash": "2fcb4881d3e43db26cb60a0850301986",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/services/category.service.ts": {
+    "mtime": 1777053357.1933434,
+    "seen": 1789772417.2865222,
+    "ast_hash": "bb449308e70628008638e8b6c3464ff3",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/services/dashboard.service.ts": {
+    "mtime": 1789767893.683457,
+    "seen": 1789772417.2865229,
+    "ast_hash": "f439f76c2a36b515350714ab491afc22",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/services/product.service.ts": {
+    "mtime": 1777053357.193424,
+    "seen": 1789772417.2865229,
+    "ast_hash": "b1577e3b6f8fc13145cf0c53223eb7ff",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/services/stock-mvt.service.ts": {
+    "mtime": 1777053357.1935017,
+    "seen": 1789772417.2865238,
+    "ast_hash": "48298c750a8160eb13960447d9579e60",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/services/tenant.service.ts": {
+    "mtime": 1777053357.1935954,
+    "seen": 1789772417.2865238,
+    "ast_hash": "9dd0177ae2d7e49040f09bdde7835619",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/services/user.service.ts": {
+    "mtime": 1777053357.1937828,
+    "seen": 1789772417.286525,
+    "ast_hash": "cf66461ea7df18abb0a86709472c1985",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/api-services/strict-http-response.ts": {
+    "mtime": 1777053357.1938486,
+    "seen": 1789772417.286525,
+    "ast_hash": "afe989bb22281a343e1cf9ecb6d092a0",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/app.config.ts": {
+    "mtime": 1777053357.1939344,
+    "seen": 1789772417.286526,
+    "ast_hash": "1c0727b412703ead9ec7552e5c934fc2",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/app.routes.ts": {
+    "mtime": 1789766596.7628696,
+    "seen": 1789772417.286526,
+    "ast_hash": "34d4397622cc767b04d6a1f462610515",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/app.spec.ts": {
+    "mtime": 1777053357.1941645,
+    "seen": 1789772417.286527,
+    "ast_hash": "14e4906fd6f983aed8212318fafb41f2",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/app.ts": {
+    "mtime": 1777053357.1942189,
+    "seen": 1789772417.286527,
+    "ast_hash": "2e41870d735807571ab5859a8163e05f",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/core/guards/auth/auth-guard.spec.ts": {
+    "mtime": 1777053357.1943808,
+    "seen": 1789772417.286528,
+    "ast_hash": "8e378f6b2664e4606d25c941c1225b92",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/core/guards/auth/auth-guard.ts": {
+    "mtime": 1777053357.194431,
+    "seen": 1789772417.286528,
+    "ast_hash": "d552732823e20bb1db3fa0342698f1db",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/core/guards/platform-admin/platform-admin-guard.spec.ts": {
+    "mtime": 1777053357.1945095,
+    "seen": 1789772417.286529,
+    "ast_hash": "d120e32729d76ac137634e95f812b3d2",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/core/guards/platform-admin/platform-admin-guard.ts": {
+    "mtime": 1777053357.1945686,
+    "seen": 1789772417.28653,
+    "ast_hash": "89cedd0edda7775871708af75ef1d101",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/core/guards/tenant-admin/tenant-admin-guard.ts": {
+    "mtime": 1789764142.5050836,
+    "seen": 1789772417.28653,
+    "ast_hash": "57d97ac70f18792626a9a98d920d2ab5",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/core/guards/tenant/tenant-checker-guard.spec.ts": {
+    "mtime": 1777053357.1946566,
+    "seen": 1789772417.286531,
+    "ast_hash": "e6ec67b46e23c766ce1d545e8f406cff",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/core/guards/tenant/tenant-checker-guard.ts": {
+    "mtime": 1777053357.1947103,
+    "seen": 1789772417.286531,
+    "ast_hash": "34a93be4464b95d1dd6e2ca7fbe47293",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/core/interceptors/http/http-interceptor-interceptor.spec.ts": {
+    "mtime": 1777053357.1948354,
+    "seen": 1789772417.2865322,
+    "ast_hash": "c465181bc599c0b5e044a26ec3978876",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/core/interceptors/http/http-interceptor-interceptor.ts": {
+    "mtime": 1777053357.1948867,
+    "seen": 1789772417.2865322,
+    "ast_hash": "4e76622f493e098d03439db2f4727918",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/core/token/token-service.spec.ts": {
+    "mtime": 1777053357.1949773,
+    "seen": 1789772417.286533,
+    "ast_hash": "b27bd04298c10029b12146ff2b9a6069",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/core/token/token-service.ts": {
+    "mtime": 1777053357.195034,
+    "seen": 1789772417.286533,
+    "ast_hash": "301c75ead617f71f072bfe6789c12106",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/admin/admin-dashboard/admin-dashboard.spec.ts": {
+    "mtime": 1777053357.195381,
+    "seen": 1789772417.286535,
+    "ast_hash": "aa28e9bb52757eabd446fd1126496496",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/admin/admin-dashboard/admin-dashboard.ts": {
+    "mtime": 1777053357.1954336,
+    "seen": 1789772417.286535,
+    "ast_hash": "3875f1c6b2d0fb0321fb2e9d9c558dea",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/admin/tenant-list/tenant-list.spec.ts": {
+    "mtime": 1777053357.1956613,
+    "seen": 1789772417.286536,
+    "ast_hash": "420be3f866280c9b207e758dd8f30992",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/admin/tenant-list/tenant-list.ts": {
+    "mtime": 1777053357.1957145,
+    "seen": 1789772417.286537,
+    "ast_hash": "c01ae10a69f9399c210d6866e3e6ee95",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/public/home/home.spec.ts": {
+    "mtime": 1777053357.1959887,
+    "seen": 1789772417.286537,
+    "ast_hash": "dbed8e6d7f6379be049437f9808b2f61",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/public/home/home.ts": {
+    "mtime": 1777053357.1960435,
+    "seen": 1789772417.286538,
+    "ast_hash": "ca80325f7871c24becd1603b26308dfb",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/public/login/login.spec.ts": {
+    "mtime": 1777053357.196271,
+    "seen": 1789772417.286538,
+    "ast_hash": "2aa5436ea12e225197aedc3fc315104a",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/public/login/login.ts": {
+    "mtime": 1777053357.1963255,
+    "seen": 1789772417.286538,
+    "ast_hash": "ca0e0fdad4bf6f51fc77e7fa200a8585",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/public/register/register.spec.ts": {
+    "mtime": 1777053357.1965725,
+    "seen": 1789772417.286539,
+    "ast_hash": "da94ace200148b4f41b7aab9fceb6b01",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/public/register/register.ts": {
+    "mtime": 1777053357.1966448,
+    "seen": 1789772417.286539,
+    "ast_hash": "99f15e5e89fe820aaab48cb66c1dcdd7",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/category-list/category-list.spec.ts": {
+    "mtime": 1777053357.1968434,
+    "seen": 1789772417.28654,
+    "ast_hash": "41fda152544049cf575e6fd3b957c07c",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/category-list/category-list.ts": {
+    "mtime": 1789766506.3691468,
+    "seen": 1789772417.286541,
+    "ast_hash": "37978bec14bac89e2715d289343100fe",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/category-list/manage-category/manage-category.spec.ts": {
+    "mtime": 1777053357.1970859,
+    "seen": 1789772417.286541,
+    "ast_hash": "9d2cd5d35f660822ea2accf9622a3089",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/category-list/manage-category/manage-category.ts": {
+    "mtime": 1777053357.1971328,
+    "seen": 1789772417.2865422,
+    "ast_hash": "204619e349dfa8660ec0588a1c7e79f7",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/dashboard/dashboard.spec.ts": {
+    "mtime": 1777053357.1973188,
+    "seen": 1789772417.2865422,
+    "ast_hash": "dae35037267281feb11d360bad690125",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/dashboard/dashboard.ts": {
+    "mtime": 1789764164.8207645,
+    "seen": 1789772417.2865431,
+    "ast_hash": "a45de3dd4a2d36f3c0073a34748ea4c1",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/product-list/manage-product/manage-product.spec.ts": {
+    "mtime": 1777053357.197622,
+    "seen": 1789772417.2865431,
+    "ast_hash": "af491d87c26d75aa0905803bccb73888",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/product-list/manage-product/manage-product.ts": {
+    "mtime": 1789766139.2995446,
+    "seen": 1789772417.2865438,
+    "ast_hash": "637341c26e8481c5c32500894d6cf3a0",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/product-list/product-list.spec.ts": {
+    "mtime": 1777053357.1978855,
+    "seen": 1789772417.2865438,
+    "ast_hash": "27fa1985ca92fa42efae21e61ec6f800",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/product-list/product-list.ts": {
+    "mtime": 1789766492.2049243,
+    "seen": 1789772417.2865448,
+    "ast_hash": "154114833d6990b992f844786ac0c16f",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/statistics/statistics.spec.ts": {
+    "mtime": 1777053357.1981826,
+    "seen": 1789772417.2865448,
+    "ast_hash": "be927ec93178169c49dc74a00551da69",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/statistics/statistics.ts": {
+    "mtime": 1789768271.3152149,
+    "seen": 1789772417.286546,
+    "ast_hash": "aa0855ad65ab6e02e7b8d0e27bed90cc",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/stock-mvt/manage-stock-mvt/manage-stock-mvt.spec.ts": {
+    "mtime": 1777053357.1984758,
+    "seen": 1789772417.286546,
+    "ast_hash": "446386c94d2e83f61e4519004deef91f",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/stock-mvt/manage-stock-mvt/manage-stock-mvt.ts": {
+    "mtime": 1777053357.198534,
+    "seen": 1789772417.286547,
+    "ast_hash": "0cd4d3f51785dcd74bb7407ef4b2e88e",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/stock-mvt/stock-mvt.spec.ts": {
+    "mtime": 1777053357.1987405,
+    "seen": 1789772417.286547,
+    "ast_hash": "1b4bf593b538cf8192336c41a9a5b536",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/stock-mvt/stock-mvt.ts": {
+    "mtime": 1789766531.6744034,
+    "seen": 1789772417.286548,
+    "ast_hash": "c70112416a0c2ce9dc88c5a9cbe6fb2f",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/user-list/manage-user/manage-user.spec.ts": {
+    "mtime": 1777053357.1991038,
+    "seen": 1789772417.286548,
+    "ast_hash": "af017be46f3cf93c0024023692b7eb77",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/user-list/manage-user/manage-user.ts": {
+    "mtime": 1777053357.1991763,
+    "seen": 1789772417.286549,
+    "ast_hash": "9e0fa362d125a39ae756f67ba632d063",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/user-list/user-list.spec.ts": {
+    "mtime": 1777053357.1994014,
+    "seen": 1789772417.286549,
+    "ast_hash": "4b3a2e1ca6020a22a9ae3ae7a9eace5a",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/user-list/user-list.ts": {
+    "mtime": 1777053357.1994653,
+    "seen": 1789772417.28655,
+    "ast_hash": "620caa2894be64f73d708926a9ddb6a3",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/shared/models/error-response.ts": {
+    "mtime": 1777053357.1996326,
+    "seen": 1789772417.28655,
+    "ast_hash": "df645b9ae5ba628b04b1f948a93bf7e1",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/shared/models/validation-error.ts": {
+    "mtime": 1777053357.1997063,
+    "seen": 1789772417.286551,
+    "ast_hash": "bb8545824b591d7b151062d3dc1d9325",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/main.ts": {
+    "mtime": 1777053357.1998346,
+    "seen": 1789772417.286551,
+    "ast_hash": "ac0b277dca1867b341af9e2d25224ae9",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/openapi/openapi.json": {
+    "mtime": 1777053357.1999533,
+    "seen": 1789772417.286552,
+    "ast_hash": "eb359021dd87268064426c901afe067f",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/tsconfig.app.json": {
+    "mtime": 1777053357.200129,
+    "seen": 1789772417.286552,
+    "ast_hash": "67a3f20f3c9369570c8dc70e3d5bb7ce",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/tsconfig.json": {
+    "mtime": 1777053357.2001917,
+    "seen": 1789772417.2865531,
+    "ast_hash": "d4886a8a9be1c35a2d17ab5e0f4439c2",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/tsconfig.spec.json": {
+    "mtime": 1777053357.200248,
+    "seen": 1789772417.2865531,
+    "ast_hash": "9261a8f9db3b2c991df0e6f9d51828b1",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/settings.json": {
+    "mtime": 1777206162.0412936,
+    "seen": 1789772417.286554,
+    "ast_hash": "bc75c633200f05a55fc097f662279338",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/settings.local.json": {
+    "mtime": 1777238910.1032653,
+    "seen": 1789772417.286554,
+    "ast_hash": "c2cc560891987a2e9b5925ca2ee33506",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/mvnw": {
+    "mtime": 1777053335.8577251,
+    "seen": 1789772417.2865548,
+    "ast_hash": "ab50dd89da7da2346b28003352eeeeeb",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/pom.xml": {
+    "mtime": 1789773316.7871108,
+    "seen": 1789773319.673551,
+    "ast_hash": "b3685b16f57b0429e9b9612e7a664e80",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/Application.java": {
+    "mtime": 1789772986.4200299,
+    "seen": 1789772990.431621,
+    "ast_hash": "cf8fcd7189faee40c0e03af140b4b73f",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/auth/AuthenticationController.java": {
+    "mtime": 1789772986.42312,
+    "seen": 1789772990.4316218,
+    "ast_hash": "3adadc4ae791c1b0854a2d35836dcf19",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/auth/requests/LoginRequest.java": {
+    "mtime": 1789772986.4238486,
+    "seen": 1789772990.431623,
+    "ast_hash": "95ad975ae1de14ed0a4a0b53f0215a00",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/auth/responses/LoginResponse.java": {
+    "mtime": 1789772986.4235165,
+    "seen": 1789772990.431623,
+    "ast_hash": "8e4073ab63d6bd5774f286fbf289288b",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/auth/service/AuthenticationService.java": {
+    "mtime": 1789772986.4241617,
+    "seen": 1789772990.431624,
+    "ast_hash": "bd7a045d0c32522985cfe29865275620",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/auth/service/AuthenticationServiceImpl.java": {
+    "mtime": 1789772986.4243631,
+    "seen": 1789772990.431625,
+    "ast_hash": "7870d7e61bebd3a2b1398138649c0209",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/common/PageResponse.java": {
+    "mtime": 1789772986.432566,
+    "seen": 1789772990.431625,
+    "ast_hash": "cbc24d19bf471d42d7b1109ebdbe23cb",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/config/BeansConfigs.java": {
+    "mtime": 1789772986.4214013,
+    "seen": 1789772990.431626,
+    "ast_hash": "4c87def67bc0253c9a7ea0cb0e29c9f7",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/config/CacheConfig.java": {
+    "mtime": 1789772986.4210138,
+    "seen": 1789772990.431626,
+    "ast_hash": "1baa05d6818ba75f1953afe31eae2fbd",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/config/CurrentTenantIdentifierResolverImpl.java": {
+    "mtime": 1789772986.42059,
+    "seen": 1789772990.431627,
+    "ast_hash": "a89794d15596aef1800ef0e6679032e6",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/config/DatabaseInitializerConfig.java": {
+    "mtime": 1789772986.4216256,
+    "seen": 1789772990.431627,
+    "ast_hash": "edd8d9327c4ba1098682986280a64176",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/config/JpaAuditingConfig.java": {
+    "mtime": 1789772986.4208252,
+    "seen": 1789772990.431628,
+    "ast_hash": "5be0ec7fdeeb05f1361d8e03842ef9fa",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/config/MultiTenantConnectionProviderImpl.java": {
+    "mtime": 1789772986.4203598,
+    "seen": 1789772990.431628,
+    "ast_hash": "d0be048b03448ff9fb57ad538de81b7d",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/config/TenantContext.java": {
+    "mtime": 1789772986.4212053,
+    "seen": 1789772990.431629,
+    "ast_hash": "713280431ba72cafe2b60a7dd5c09948",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/config/TenantSchemaResolver.java": {
+    "mtime": 1789772986.4218185,
+    "seen": 1789772990.431629,
+    "ast_hash": "3fe5542073fc5725d0841410e1671b8a",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/controllers/CategoryController.java": {
+    "mtime": 1789772986.43501,
+    "seen": 1789772990.4316301,
+    "ast_hash": "313f0778c9bc25a1f2314b57e5066147",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/controllers/DashboardController.java": {
+    "mtime": 1789772986.4348164,
+    "seen": 1789772990.431631,
+    "ast_hash": "daa186a5af11f5205f0ad47b1e5ecb64",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/controllers/ProductController.java": {
+    "mtime": 1789772986.4345639,
+    "seen": 1789772990.431631,
+    "ast_hash": "44f3941b26dec37168ee795948a35db2",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/controllers/StockMvtController.java": {
+    "mtime": 1789772986.435201,
+    "seen": 1789772990.4316318,
+    "ast_hash": "6e9f053259aec6df01e224d31cb8f2a6",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/controllers/TenantController.java": {
+    "mtime": 1789772986.4354,
+    "seen": 1789772990.4316318,
+    "ast_hash": "6fedd7def3be1f4c644f9c08076dff83",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/controllers/UserController.java": {
+    "mtime": 1789772986.4356503,
+    "seen": 1789772990.431633,
+    "ast_hash": "6c57f8dfdc9e2aa9c38319fbaac323b4",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/entities/AbstractEntity.java": {
+    "mtime": 1789772986.4432058,
+    "seen": 1789772990.431634,
+    "ast_hash": "6d4c223720d802b1e139c5dcfa9ff476",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/entities/Category.java": {
+    "mtime": 1789772986.4422104,
+    "seen": 1789772990.431634,
+    "ast_hash": "dfb9b2b2137cd205dccfa409b9478a31",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/entities/Product.java": {
+    "mtime": 1789772986.4419482,
+    "seen": 1789772990.431635,
+    "ast_hash": "128af08f9c6d080b8b3bd4fe47f6351f",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/entities/StockMvt.java": {
+    "mtime": 1789772986.4434464,
+    "seen": 1789772990.431635,
+    "ast_hash": "153efbebd17e9a67cb99d91aefad8ad1",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/entities/Tenant.java": {
+    "mtime": 1789772986.443677,
+    "seen": 1789772990.4316359,
+    "ast_hash": "1e994503a5ea40f5b710560dbe676283",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/entities/TenantStatus.java": {
+    "mtime": 1789772986.4429443,
+    "seen": 1789772990.4316359,
+    "ast_hash": "4ed2e8bd168ec1423b60e54b36e54019",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/entities/TypeMvt.java": {
+    "mtime": 1789772986.442548,
+    "seen": 1789772990.431637,
+    "ast_hash": "84b988d80fd70ffcc464e26d2e712f15",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/entities/User.java": {
+    "mtime": 1789772986.442743,
+    "seen": 1789772990.431637,
+    "ast_hash": "4727df6fb14c8ed79fb8c47ab6af5683",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/entities/UserRole.java": {
+    "mtime": 1789772986.441738,
+    "seen": 1789772990.431638,
+    "ast_hash": "4b9a692daa6f426039cdf3d98d4ea44e",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/exceptions/BusinessException.java": {
+    "mtime": 1789772986.4305909,
+    "seen": 1789772990.431638,
+    "ast_hash": "15dd4ab1ce29ba95af98e647aa199ad4",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/exceptions/DuplicateResourceException.java": {
+    "mtime": 1789772986.4293277,
+    "seen": 1789772990.431639,
+    "ast_hash": "beb2d91b4f7aff22bbdb3d3690e99ff7",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/exceptions/GlobalExceptionHandler.java": {
+    "mtime": 1789772986.4299076,
+    "seen": 1789772990.4316401,
+    "ast_hash": "81a125470c5aea9ac5df57111bf102a0",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/exceptions/InvalidRequestException.java": {
+    "mtime": 1789772986.4303787,
+    "seen": 1789772990.4316401,
+    "ast_hash": "ee6daaa054e3ee17a14d9d0f891881bd",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/exceptions/TenantProvisioningException.java": {
+    "mtime": 1789772986.4301646,
+    "seen": 1789772990.431641,
+    "ast_hash": "fa736bc6f5f446753127a66439dd8c5e",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/exceptions/UnauthorizedException.java": {
+    "mtime": 1789772986.429119,
+    "seen": 1789772990.431641,
+    "ast_hash": "74a9221ad80682beebce9cf09b4883ea",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/exceptions/responses/ErrorResponse.java": {
+    "mtime": 1789772986.4296415,
+    "seen": 1789772990.431642,
+    "ast_hash": "bb215e9f510c2368edee3adb4c3afef4",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/mappers/CategoryMapper.java": {
+    "mtime": 1789772986.4332352,
+    "seen": 1789772990.4316428,
+    "ast_hash": "6b591ba762f1da8e43acc1406b3a90bf",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/mappers/ProductMapper.java": {
+    "mtime": 1789772986.4342444,
+    "seen": 1789772990.4316428,
+    "ast_hash": "37603851a5e48e6605c80ccc9ded902e",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/mappers/StockMvtMapper.java": {
+    "mtime": 1789772986.4335058,
+    "seen": 1789772990.431644,
+    "ast_hash": "5fa324e9b09ed31f76cb002013036350",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/mappers/TenantMapper.java": {
+    "mtime": 1789772986.4338574,
+    "seen": 1789772990.431644,
+    "ast_hash": "04f2ab8ca5d9212a4af155760214bc1f",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/mappers/UserMapper.java": {
+    "mtime": 1789772986.4340487,
+    "seen": 1789772990.431645,
+    "ast_hash": "52388750e4f0a56bee000c6600e05647",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/properties/JwtProperties.java": {
+    "mtime": 1789772986.4329002,
+    "seen": 1789772990.431645,
+    "ast_hash": "81fac11832c507d14ac5c05b2b9e4378",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/repositories/CategoryRepository.java": {
+    "mtime": 1789772986.4274032,
+    "seen": 1789772990.4316459,
+    "ast_hash": "d5fd5b289cb64530c3a295d7f9f2c267",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/repositories/ProductRepository.java": {
+    "mtime": 1789772986.4271572,
+    "seen": 1789772990.431647,
+    "ast_hash": "fd8dd4b912537fa714c350ee02f4fae3",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/repositories/StockMvtRepository.java": {
+    "mtime": 1789772986.42841,
+    "seen": 1789772990.431647,
+    "ast_hash": "bfd7a5a15e4350ec309857f39253e456",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/repositories/TenantRepository.java": {
+    "mtime": 1789772986.427766,
+    "seen": 1789772990.431648,
+    "ast_hash": "48837325338edcaf85467a1be4b9355a",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/repositories/UserRepository.java": {
+    "mtime": 1789772986.4281487,
+    "seen": 1789772990.431648,
+    "ast_hash": "ea45cf4352e2d752266fbfbc0978b2ec",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/requests/CategoryRequest.java": {
+    "mtime": 1789772986.4321651,
+    "seen": 1789772990.431649,
+    "ast_hash": "3e7a3146ff52fee6dd3c3ec74c790837",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/requests/ProductRequest.java": {
+    "mtime": 1789772986.431576,
+    "seen": 1789772990.431649,
+    "ast_hash": "31b8ad6590c4712812abd296ecbb5b65",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/requests/RegisterTenantRequest.java": {
+    "mtime": 1789772986.4317737,
+    "seen": 1789772990.4316502,
+    "ast_hash": "010527c9d570e326c52bed2ef1d9c76e",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/requests/StockMvtRequest.java": {
+    "mtime": 1789772986.4313104,
+    "seen": 1789772990.4316502,
+    "ast_hash": "c0e1b1e60a0ba2f8f75d6844ee1e3d78",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/requests/UserRequest.java": {
+    "mtime": 1789772986.4319677,
+    "seen": 1789772990.431651,
+    "ast_hash": "a775cac3e094be0f5143a7daf26917dd",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/responses/CategoryResponse.java": {
+    "mtime": 1789772986.4247825,
+    "seen": 1789772990.431651,
+    "ast_hash": "149f5a47fc319c71d249bf054d6d9d2c",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/responses/DashboardStatsResponse.java": {
+    "mtime": 1789772986.4253685,
+    "seen": 1789772990.431652,
+    "ast_hash": "0a188ef82c3531a6eb9bfa9c502501df",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/responses/MonthlyTrendEntry.java": {
+    "mtime": 1789772986.425175,
+    "seen": 1789772990.431652,
+    "ast_hash": "c03953b29b58138492d586333b695c3d",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/responses/ProductResponse.java": {
+    "mtime": 1789772986.4255977,
+    "seen": 1789772990.431653,
+    "ast_hash": "3eb1be6a387c4478109d8688eadb6341",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/responses/StockMvtResponse.java": {
+    "mtime": 1789772986.4260345,
+    "seen": 1789772990.431654,
+    "ast_hash": "c670f7e276f6f59e97089404a5c2790b",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/responses/TenantResponse.java": {
+    "mtime": 1789772986.425797,
+    "seen": 1789772990.431654,
+    "ast_hash": "337f5bc44081d8feacc1d9e473fa4acd",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/responses/UserResponse.java": {
+    "mtime": 1789772986.4249775,
+    "seen": 1789772990.431655,
+    "ast_hash": "b988a86d29ed67e7406a1c9097f10c36",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/security/JwtAuthenticationFilter.java": {
+    "mtime": 1789772986.4227858,
+    "seen": 1789772990.431655,
+    "ast_hash": "d0cc2c1fd014ad7a0a2df41a5ccc38ce",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/security/JwtTokenService.java": {
+    "mtime": 1789772986.4223106,
+    "seen": 1789772990.431656,
+    "ast_hash": "ff07692af5b938f9fff496045adab409",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/security/SecurityConfig.java": {
+    "mtime": 1789772986.422587,
+    "seen": 1789772990.431656,
+    "ast_hash": "51f64b46c92324c19b586fe4c7148906",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/BasicService.java": {
+    "mtime": 1789772986.4408607,
+    "seen": 1789772990.431657,
+    "ast_hash": "3645e1d02a17fee5c312611ad3f4a9f8",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/CategoryService.java": {
+    "mtime": 1789772986.4413807,
+    "seen": 1789772990.431658,
+    "ast_hash": "01d28a9db126971c7061f1908d610e4f",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/DashboardService.java": {
+    "mtime": 1789772986.4404182,
+    "seen": 1789772990.431658,
+    "ast_hash": "6d25c7c9de705e220c38cfbf356ab2c6",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/ProductService.java": {
+    "mtime": 1789772986.4396849,
+    "seen": 1789772990.431659,
+    "ast_hash": "00c10485cb30192c634c9723696323c4",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/ProvisioningService.java": {
+    "mtime": 1789772986.4389684,
+    "seen": 1789772990.431659,
+    "ast_hash": "ceb7c7369151182fea2d81a454a68236",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/StockMvtService.java": {
+    "mtime": 1789772986.4394672,
+    "seen": 1789772990.43166,
+    "ast_hash": "9b82e59c4de081a04df315f650007e06",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/TenantMigrationService.java": {
+    "mtime": 1789773316.7879949,
+    "seen": 1789773319.675353,
+    "ast_hash": "024ef5fec3dd5cc09f8ee37525ed4ab7",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/TenantSeedService.java": {
+    "mtime": 1789773316.7887056,
+    "seen": 1789773319.675353,
+    "ast_hash": "a6648fad699cf26a9db9e136a84a6258",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/TenantService.java": {
+    "mtime": 1789772986.440614,
+    "seen": 1789772990.4316611,
+    "ast_hash": "b9f15a63b015b5374e8e3284754bfcb7",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/UserService.java": {
+    "mtime": 1789772986.4391706,
+    "seen": 1789772990.431662,
+    "ast_hash": "2bc2afebec5c14496d6eb312578ba581",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/impl/CategoryServiceImpl.java": {
+    "mtime": 1789772986.4373326,
+    "seen": 1789772990.431662,
+    "ast_hash": "a102a9f19dd4a1352d4b905c411b41bc",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/impl/DashboardServiceImpl.java": {
+    "mtime": 1789772986.4363625,
+    "seen": 1789772990.431663,
+    "ast_hash": "5ff32167547b0adbcaa4b8799b902103",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/impl/ProductServiceImpl.java": {
+    "mtime": 1789772986.4381127,
+    "seen": 1789772990.4316642,
+    "ast_hash": "f03a8ae7d1c1999c6708660713798d65",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/impl/ProvisioningServiceImpl.java": {
+    "mtime": 1789772986.4386857,
+    "seen": 1789772990.4316642,
+    "ast_hash": "b13c084df6df555879cc959a1d44df9f",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/impl/StockMvtServiceImpl.java": {
+    "mtime": 1789772986.4384067,
+    "seen": 1789772990.431665,
+    "ast_hash": "ae63685fe996441518a978968a6b2016",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/impl/TenantMigrationServiceImpl.java": {
+    "mtime": 1789773316.7893605,
+    "seen": 1789773319.675547,
+    "ast_hash": "5ec16d43f1965e2d4595959500000767",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/impl/TenantSeedServiceImpl.java": {
+    "mtime": 1789773316.7899518,
+    "seen": 1789773319.6755478,
+    "ast_hash": "98238c408b2086c71ca6a6836f3d8cab",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/impl/TenantServiceImpl.java": {
+    "mtime": 1789772986.4370677,
+    "seen": 1789772990.431666,
+    "ast_hash": "ea30b54a1064cf77d910250d2b5464c5",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/services/impl/UserServiceImpl.java": {
+    "mtime": 1789772986.4375694,
+    "seen": 1789772990.4316669,
+    "ast_hash": "b245ce87c90f42d3e539a3182106edd1",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/java/com/tech/saas/utils/TenantCodeValidator.java": {
+    "mtime": 1789773316.790361,
+    "seen": 1789773319.6756039,
+    "ast_hash": "82c0c08f5ced0dcc6b234064e1507263",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/resources/db/migration/tenant/V1__Init_DB_For_Tenant.sql": {
+    "mtime": 1789772986.417753,
+    "seen": 1789772990.431668,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/resources/db/seed/seed_tenant_data.sql": {
+    "mtime": 1789772986.4171898,
+    "seen": 1789772990.431668,
+    "ast_hash": "",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/test/java/com/tech/saas/ApplicationTests.java": {
+    "mtime": 1789772986.4136813,
+    "seen": 1789772990.431669,
+    "ast_hash": "21a56244d2cc75cf413cce2c71bb13e8",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/test/java/com/tech/saas/integration/TenantMultiTenancyIntegrationTest.java": {
+    "mtime": 1789773316.7935562,
+    "seen": 1789773319.67563,
+    "ast_hash": "7aea5fe7fbd5e4e0ae2e313027ce8fc6",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/test/java/com/tech/saas/services/TenantMigrationServiceTest.java": {
+    "mtime": 1789773316.7941344,
+    "seen": 1789773319.675631,
+    "ast_hash": "1df33d882066c5fd1beb398117abd67d",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/test/java/com/tech/saas/services/TenantServiceTest.java": {
+    "mtime": 1789773316.7943804,
+    "seen": 1789773319.6756322,
+    "ast_hash": "433c1aacac4380ede908ed7e1c034df3",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/test/java/com/tech/saas/utils/TenantCodeValidatorTest.java": {
+    "mtime": 1789773316.7946136,
+    "seen": 1789773319.6756322,
+    "ast_hash": "adf0013cdd1be430978f35c135a8b55e",
+    "semantic_hash": ""
+  },
+  ".claude/CLAUDE.md": {
+    "mtime": 1789763104.2617862,
+    "seen": 1789772417.286603,
+    "ast_hash": "9b31786b637be3c13978bec4c2330752",
+    "semantic_hash": ""
+  },
+  ".claude/agents/code-reviewer.md": {
+    "mtime": 1789767485.3210552,
+    "seen": 1789772417.286604,
+    "ast_hash": "2d34602e24d8d4d7d557265c4f43a2e8",
+    "semantic_hash": ""
+  },
+  ".claude/agents/migration-expert.md": {
+    "mtime": 1777207644.5859218,
+    "seen": 1789772417.286604,
+    "ast_hash": "e611add05bacdc92e7c49d64cb606c46",
+    "semantic_hash": ""
+  },
+  ".claude/agents/security-auditor.md": {
+    "mtime": 1777207491.3464355,
+    "seen": 1789772417.2866051,
+    "ast_hash": "874fa2bd9ad61f90c4c06d5b53b44494",
+    "semantic_hash": ""
+  },
+  ".claude/agents/test-writer.md": {
+    "mtime": 1789767485.3214204,
+    "seen": 1789772417.2866051,
+    "ast_hash": "ec5353145facfdf4ec15a69be4814a05",
+    "semantic_hash": ""
+  },
+  ".claude/commands/build.md": {
+    "mtime": 1777206165.1709332,
+    "seen": 1789772417.286606,
+    "ast_hash": "6725d087f464d5d64cf64b2b2291bc7c",
+    "semantic_hash": ""
+  },
+  ".claude/commands/db-start.md": {
+    "mtime": 1777206174.0551946,
+    "seen": 1789772417.286607,
+    "ast_hash": "b255a44faf5dff04b0cfb2c8a1eadd2a",
+    "semantic_hash": ""
+  },
+  ".claude/commands/deploy.md": {
+    "mtime": 1775262783.8407571,
+    "seen": 1789772417.286607,
+    "ast_hash": "d80111d3111876fc8222c60bb05af245",
+    "semantic_hash": ""
+  },
+  ".claude/commands/fix-issue.md": {
+    "mtime": 1775262774.9689224,
+    "seen": 1789772417.286608,
+    "ast_hash": "b121a4f58b04bc36578693c184838bbe",
+    "semantic_hash": ""
+  },
+  ".claude/commands/new-feature.md": {
+    "mtime": 1777206192.4110534,
+    "seen": 1789772417.286608,
+    "ast_hash": "effa5cbfd90c491f6a80f8b711d740d4",
+    "semantic_hash": ""
+  },
+  ".claude/commands/new-migration.md": {
+    "mtime": 1777206181.5167701,
+    "seen": 1789772417.286609,
+    "ast_hash": "acc8748c61bbb738b252e3297b3a3a1d",
+    "semantic_hash": ""
+  },
+  ".claude/commands/review-tenant-isolation.md": {
+    "mtime": 1777206199.5480313,
+    "seen": 1789772417.286609,
+    "ast_hash": "4264909946e111dabc97cbbde67fbbbd",
+    "semantic_hash": ""
+  },
+  ".claude/commands/review.md": {
+    "mtime": 1775262779.2909205,
+    "seen": 1789772417.28661,
+    "ast_hash": "bcbb9bc0f23a8086e59fd8e5d6fa31cd",
+    "semantic_hash": ""
+  },
+  ".claude/commands/test.md": {
+    "mtime": 1777206168.585331,
+    "seen": 1789772417.28661,
+    "ast_hash": "bd884044539191a3a876a7a55623f291",
+    "semantic_hash": ""
+  },
+  ".claude/rules/api-conventions.md": {
+    "mtime": 1777207524.3569386,
+    "seen": 1789772417.2866108,
+    "ast_hash": "9469eb5fc6391868ccffee51c282bef7",
+    "semantic_hash": ""
+  },
+  ".claude/rules/code-style.md": {
+    "mtime": 1777207507.5887952,
+    "seen": 1789772417.2866108,
+    "ast_hash": "95c6dbf2aeae5cb37dc863dfe56c2e1b",
+    "semantic_hash": ""
+  },
+  ".claude/rules/multi-tenancy.md": {
+    "mtime": 1777207564.5740342,
+    "seen": 1789772417.286612,
+    "ast_hash": "551c34c75d3ea6819f9758ec9504e89f",
+    "semantic_hash": ""
+  },
+  ".claude/rules/testing.md": {
+    "mtime": 1777207543.5659308,
+    "seen": 1789772417.286612,
+    "ast_hash": "c71537ecb10e01091d09e6b48afcb7ef",
+    "semantic_hash": ""
+  },
+  ".claude/skills/README.md": {
+    "mtime": 1787434966.696167,
+    "seen": 1789772417.286613,
+    "ast_hash": "dd418ba8715929d1cbeae93c83e570d0",
+    "semantic_hash": ""
+  },
+  ".claude/skills/angular/SKILL.md": {
+    "mtime": 1787680001.3613992,
+    "seen": 1789772417.286613,
+    "ast_hash": "e687088efe925b4a6cea16bdd8078ea2",
+    "semantic_hash": ""
+  },
+  ".claude/skills/api-contract-review/README.md": {
+    "mtime": 1787434966.6963863,
+    "seen": 1789772417.286614,
+    "ast_hash": "26a3f2011e4839eabc17c0b15cce738d",
+    "semantic_hash": ""
+  },
+  ".claude/skills/api-contract-review/SKILL.md": {
+    "mtime": 1787434966.6966064,
+    "seen": 1789772417.2866151,
+    "ast_hash": "3855fe93b8173d6217cf2a01e3c535ff",
+    "semantic_hash": ""
+  },
+  ".claude/skills/architecture-review/README.md": {
+    "mtime": 1787434966.6967947,
+    "seen": 1789772417.2866151,
+    "ast_hash": "493a4a5d92ff1f2cc55fbf0e968068d4",
+    "semantic_hash": ""
+  },
+  ".claude/skills/architecture-review/SKILL.md": {
+    "mtime": 1787434966.6969745,
+    "seen": 1789772417.286616,
+    "ast_hash": "d00ff9bd54a88c6a64be7c5582239a90",
+    "semantic_hash": ""
+  },
+  ".claude/skills/changelog-generator/README.md": {
+    "mtime": 1787434966.6971436,
+    "seen": 1789772417.286616,
+    "ast_hash": "ad37ce77096b899f432163e685e154e2",
+    "semantic_hash": ""
+  },
+  ".claude/skills/changelog-generator/SKILL.md": {
+    "mtime": 1787434966.6973257,
+    "seen": 1789772417.286617,
+    "ast_hash": "4f57055742a062c4eb06a6cc86ce1376",
+    "semantic_hash": ""
+  },
+  ".claude/skills/clean-code/README.md": {
+    "mtime": 1787434966.6974978,
+    "seen": 1789772417.286617,
+    "ast_hash": "4e9515e2f38544b5a39e5b24e20571a6",
+    "semantic_hash": ""
+  },
+  ".claude/skills/clean-code/SKILL.md": {
+    "mtime": 1787434966.6976774,
+    "seen": 1789772417.286618,
+    "ast_hash": "65369a43627654f64df036b9be53cd13",
+    "semantic_hash": ""
+  },
+  ".claude/skills/concurrency-review/README.md": {
+    "mtime": 1787434966.6978421,
+    "seen": 1789772417.286618,
+    "ast_hash": "b1e870131370f2267dfb0030a784c7e8",
+    "semantic_hash": ""
+  },
+  ".claude/skills/concurrency-review/SKILL.md": {
+    "mtime": 1787434966.6979928,
+    "seen": 1789772417.286619,
+    "ast_hash": "02192bb3b89ee104b2ec9ab337b98481",
+    "semantic_hash": ""
+  },
+  ".claude/skills/deploy/SKILL.md": {
+    "mtime": 1787869091.8400655,
+    "seen": 1789772417.28662,
+    "ast_hash": "bdf2fa9419cde7291e449f7328d6a917",
+    "semantic_hash": ""
+  },
+  ".claude/skills/design-patterns/README.md": {
+    "mtime": 1787434966.6981468,
+    "seen": 1789772417.28662,
+    "ast_hash": "6403db7b23909f19f0d8659ed6d560ef",
+    "semantic_hash": ""
+  },
+  ".claude/skills/design-patterns/SKILL.md": {
+    "mtime": 1787434966.6982837,
+    "seen": 1789772417.2866209,
+    "ast_hash": "13a626a03f4da6f2b0a9e76f7aa4f1d2",
+    "semantic_hash": ""
+  },
+  ".claude/skills/git-commit/README.md": {
+    "mtime": 1787434966.6984587,
+    "seen": 1789772417.2866209,
+    "ast_hash": "76d7ca60940e10065f4cfa58b26fd0cf",
+    "semantic_hash": ""
+  },
+  ".claude/skills/git-commit/SKILL.md": {
+    "mtime": 1788483037.0301037,
+    "seen": 1789772417.286622,
+    "ast_hash": "5662a624331d2877cc2723f080a1272c",
+    "semantic_hash": ""
+  },
+  ".claude/skills/graphify/SKILL.md": {
+    "mtime": 1789763104.261488,
+    "seen": 1789772417.286622,
+    "ast_hash": "1656a8a8e4a05bbe69f32cd15de81e87",
+    "semantic_hash": ""
+  },
+  ".claude/skills/graphify/references/add-watch.md": {
+    "mtime": 1789762971.2010403,
+    "seen": 1789772417.286623,
+    "ast_hash": "d59d027fe449f06aa03905a01184e779",
+    "semantic_hash": ""
+  },
+  ".claude/skills/graphify/references/exports.md": {
+    "mtime": 1789762971.2010925,
+    "seen": 1789772417.286623,
+    "ast_hash": "9da2a2152e60a22f07f05fed5158f287",
+    "semantic_hash": ""
+  },
+  ".claude/skills/graphify/references/extraction-spec.md": {
+    "mtime": 1789762971.2013109,
+    "seen": 1789772417.286624,
+    "ast_hash": "42fef56a01698118f7fd722acdadea34",
+    "semantic_hash": ""
+  },
+  ".claude/skills/graphify/references/github-and-merge.md": {
+    "mtime": 1789762971.20136,
+    "seen": 1789772417.286625,
+    "ast_hash": "cde13df085e4c492aeb7ba298a996d0d",
+    "semantic_hash": ""
+  },
+  ".claude/skills/graphify/references/hooks.md": {
+    "mtime": 1789762971.2049367,
+    "seen": 1789772417.286625,
+    "ast_hash": "3f545db6ce646650bb9de588f5512a27",
+    "semantic_hash": ""
+  },
+  ".claude/skills/graphify/references/query.md": {
+    "mtime": 1789762971.2050803,
+    "seen": 1789772417.286626,
+    "ast_hash": "3c46f8ad006874260614ed8657d02307",
+    "semantic_hash": ""
+  },
+  ".claude/skills/graphify/references/transcribe.md": {
+    "mtime": 1789762971.2051494,
+    "seen": 1789772417.286626,
+    "ast_hash": "67b6a5fa6c0974e18f60db9f8932fbd8",
+    "semantic_hash": ""
+  },
+  ".claude/skills/graphify/references/update.md": {
+    "mtime": 1789762971.2053058,
+    "seen": 1789772417.286627,
+    "ast_hash": "9378bd03d56baaf78bd738ab3848f142",
+    "semantic_hash": ""
+  },
+  ".claude/skills/issue-triage/README.md": {
+    "mtime": 1787434966.6987371,
+    "seen": 1789772417.286627,
+    "ast_hash": "4dbfa9538e537116dd70484c9326714a",
+    "semantic_hash": ""
+  },
+  ".claude/skills/issue-triage/SKILL.md": {
+    "mtime": 1787434966.6988945,
+    "seen": 1789772417.286628,
+    "ast_hash": "c3565c3f48610d587d0c9650319be0be",
+    "semantic_hash": ""
+  },
+  ".claude/skills/java-code-review/README.md": {
+    "mtime": 1787434966.699039,
+    "seen": 1789772417.286628,
+    "ast_hash": "c6cc3af574d68432f9a9ec3c7f6de2c0",
+    "semantic_hash": ""
+  },
+  ".claude/skills/java-code-review/SKILL.md": {
+    "mtime": 1787434966.6991985,
+    "seen": 1789772417.2866292,
+    "ast_hash": "eed6e802fd579db6b6432f00614bec15",
+    "semantic_hash": ""
+  },
+  ".claude/skills/java-migration/README.md": {
+    "mtime": 1787434966.6993506,
+    "seen": 1789772417.2866292,
+    "ast_hash": "ea90dbed9c1e3afc9624cd565108b032",
+    "semantic_hash": ""
+  },
+  ".claude/skills/java-migration/SKILL.md": {
+    "mtime": 1787434966.6995022,
+    "seen": 1789772417.28663,
+    "ast_hash": "4ddd2243215152a9adc010dd2ff54bde",
+    "semantic_hash": ""
+  },
+  ".claude/skills/jpa-patterns/README.md": {
+    "mtime": 1787434966.699655,
+    "seen": 1789772417.28663,
+    "ast_hash": "e27c340d3d6fe0821adb152b9eab0b1d",
+    "semantic_hash": ""
+  },
+  ".claude/skills/jpa-patterns/SKILL.md": {
+    "mtime": 1787434966.6997943,
+    "seen": 1789772417.2866309,
+    "ast_hash": "3c2b4d12f8adb74b8a1c713ff89f7646",
+    "semantic_hash": ""
+  },
+  ".claude/skills/logging-patterns/README.md": {
+    "mtime": 1787434966.6999502,
+    "seen": 1789772417.2866318,
+    "ast_hash": "56aba52bac970942fe69da1c774c6207",
+    "semantic_hash": ""
+  },
+  ".claude/skills/logging-patterns/SKILL.md": {
+    "mtime": 1787434966.7000878,
+    "seen": 1789772417.2866318,
+    "ast_hash": "bcd0626b4bf9492397429be36b2a2d4e",
+    "semantic_hash": ""
+  },
+  ".claude/skills/maven-dependency-audit/README.md": {
+    "mtime": 1787434966.7002392,
+    "seen": 1789772417.286633,
+    "ast_hash": "f52ee291c02f518c8c3fa0b13fa1a865",
+    "semantic_hash": ""
+  },
+  ".claude/skills/maven-dependency-audit/SKILL.md": {
+    "mtime": 1787434966.7003686,
+    "seen": 1789772417.286633,
+    "ast_hash": "b5f8bfbdc5ad0f5bb4f6c3769460fcbc",
+    "semantic_hash": ""
+  },
+  ".claude/skills/performance-smell-detection/README.md": {
+    "mtime": 1787434966.7005203,
+    "seen": 1789772417.286634,
+    "ast_hash": "9d6062e4b8517a9bf08ec38342bb12ca",
+    "semantic_hash": ""
+  },
+  ".claude/skills/performance-smell-detection/SKILL.md": {
+    "mtime": 1787434966.7006679,
+    "seen": 1789772417.286634,
+    "ast_hash": "15500f920b4679b341612739add48a1e",
+    "semantic_hash": ""
+  },
+  ".claude/skills/security-audit/README.md": {
+    "mtime": 1787434966.7008214,
+    "seen": 1789772417.286635,
+    "ast_hash": "a4d3ff41912415ad52b5c75ef9d09045",
+    "semantic_hash": ""
+  },
+  ".claude/skills/security-audit/SKILL.md": {
+    "mtime": 1787434966.7009697,
+    "seen": 1789772417.286636,
+    "ast_hash": "5574c35c2486099df936dadda816c7dc",
+    "semantic_hash": ""
+  },
+  ".claude/skills/security-review/SKILL.md": {
+    "mtime": 1777207595.5149128,
+    "seen": 1789772417.286636,
+    "ast_hash": "b2a26894432525e59d7e95c33c310ec1",
+    "semantic_hash": ""
+  },
+  ".claude/skills/solid-principles/README.md": {
+    "mtime": 1787434966.7011163,
+    "seen": 1789772417.286637,
+    "ast_hash": "c47811374dbaef910114b453e81b417d",
+    "semantic_hash": ""
+  },
+  ".claude/skills/solid-principles/SKILL.md": {
+    "mtime": 1787434966.7012458,
+    "seen": 1789772417.286637,
+    "ast_hash": "0182f9b1828c4a33b653c3a3ced2c390",
+    "semantic_hash": ""
+  },
+  ".claude/skills/spring-boot-patterns/README.md": {
+    "mtime": 1787434966.701414,
+    "seen": 1789772417.286638,
+    "ast_hash": "56344631243f650a78eb4a392147d57f",
+    "semantic_hash": ""
+  },
+  ".claude/skills/spring-boot-patterns/SKILL.md": {
+    "mtime": 1787434966.7015507,
+    "seen": 1789772417.286638,
+    "ast_hash": "80a2f40fb3426d8bd7c4e705ab721528",
+    "semantic_hash": ""
+  },
+  ".claude/skills/test-quality/README.md": {
+    "mtime": 1787434966.7017162,
+    "seen": 1789772417.2866392,
+    "ast_hash": "745675a7f9742ada34ccd47e8ec7d917",
+    "semantic_hash": ""
+  },
+  ".claude/skills/test-quality/SKILL.md": {
+    "mtime": 1787434966.7018523,
+    "seen": 1789772417.2866392,
+    "ast_hash": "ad5501e03546bb6c532656014018603c",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1789767485.3206224,
+    "seen": 1789772417.2866402,
+    "ast_hash": "6c1b00f2fdff5927075fdc6aa2e44205",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/README.md": {
+    "mtime": 1777053357.1895053,
+    "seen": 1789772417.2866402,
+    "ast_hash": "7f7184e0df46a0d59867fc04d9c9ddd1",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/UI-Enhancement-Promt.md": {
+    "mtime": 1777053357.1895561,
+    "seen": 1789772417.286641,
+    "ast_hash": "bffd5f525094d4b0c3ae1b1a5a21b985",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/app.html": {
+    "mtime": 1777053357.1939907,
+    "seen": 1789772417.286641,
+    "ast_hash": "eb2ce819db0e019d9b8afee11e3b5828",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/admin/admin-dashboard/admin-dashboard.html": {
+    "mtime": 1777053357.1951983,
+    "seen": 1789772417.2866418,
+    "ast_hash": "6440e786cde7642973b43ccb6871ab58",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/admin/tenant-list/tenant-list.html": {
+    "mtime": 1777053357.1955397,
+    "seen": 1789772417.286643,
+    "ast_hash": "007110a9312afd7cb3dfb9a3b86a4ecd",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/public/home/home.html": {
+    "mtime": 1777053357.1958485,
+    "seen": 1789772417.286643,
+    "ast_hash": "138ad735b8e88b81992723d123c81d92",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/public/login/login.html": {
+    "mtime": 1777053357.1961308,
+    "seen": 1789772417.286644,
+    "ast_hash": "53f388c5b38968602dbb32c600268fc8",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/public/register/register.html": {
+    "mtime": 1777053357.196446,
+    "seen": 1789772417.286644,
+    "ast_hash": "795bca4d20bc6a2e0cad3a17c486bada",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/category-list/category-list.html": {
+    "mtime": 1789766572.6335213,
+    "seen": 1789772417.286645,
+    "ast_hash": "0bcf17b20165c20e5f562a4c51ac7412",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/category-list/manage-category/manage-category.html": {
+    "mtime": 1777053357.196977,
+    "seen": 1789772417.286645,
+    "ast_hash": "86cf38e68210909eb103c94c6202165a",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/dashboard/dashboard.html": {
+    "mtime": 1789764169.1885436,
+    "seen": 1789772417.2866461,
+    "ast_hash": "c558acbb12daee454b943295d1e8374b",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/product-list/manage-product/manage-product.html": {
+    "mtime": 1777053357.1975071,
+    "seen": 1789772417.2866461,
+    "ast_hash": "b4d8eb6994199fbfed395c6984dbd20e",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/product-list/product-list.html": {
+    "mtime": 1789766550.2636373,
+    "seen": 1789772417.286647,
+    "ast_hash": "ec1f5750e558e9f1644c74ab3b28dfcd",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/statistics/statistics.html": {
+    "mtime": 1789768282.5355632,
+    "seen": 1789772417.286647,
+    "ast_hash": "c47a72d638729519db5983004a3334c1",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/stock-mvt/manage-stock-mvt/manage-stock-mvt.html": {
+    "mtime": 1777053357.1983547,
+    "seen": 1789772417.286648,
+    "ast_hash": "66c0123f4e846884bfe9f0b7e8bf90f9",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/stock-mvt/stock-mvt.html": {
+    "mtime": 1789766585.8281333,
+    "seen": 1789772417.286648,
+    "ast_hash": "7a4f74c8d7dca8ab5cfc00c4960a51de",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/user-list/manage-user/manage-user.html": {
+    "mtime": 1777053357.1989646,
+    "seen": 1789772417.286649,
+    "ast_hash": "87c779136f363e3aadb666d248ca13e8",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/app/features/tenant/user-list/user-list.html": {
+    "mtime": 1777053357.1992552,
+    "seen": 1789772417.286649,
+    "ast_hash": "67567af0729477a6ba2224074f287b61",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy-ui/src/index.html": {
+    "mtime": 1777053357.19977,
+    "seen": 1789772417.2866502,
+    "ast_hash": "871e9b02a2dbc431193003191f27a05a",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/agents/code-reviewer.md": {
+    "mtime": 1789767311.5621388,
+    "seen": 1789772417.286651,
+    "ast_hash": "2d34602e24d8d4d7d557265c4f43a2e8",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/agents/migration-expert.md": {
+    "mtime": 1777207644.5859218,
+    "seen": 1789772417.286651,
+    "ast_hash": "e611add05bacdc92e7c49d64cb606c46",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/agents/security-auditor.md": {
+    "mtime": 1777207491.3464355,
+    "seen": 1789772417.2866518,
+    "ast_hash": "874fa2bd9ad61f90c4c06d5b53b44494",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/agents/test-writer.md": {
+    "mtime": 1789767311.5624936,
+    "seen": 1789772417.2866518,
+    "ast_hash": "ec5353145facfdf4ec15a69be4814a05",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/commands/build.md": {
+    "mtime": 1777206165.1709332,
+    "seen": 1789772417.286653,
+    "ast_hash": "6725d087f464d5d64cf64b2b2291bc7c",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/commands/db-start.md": {
+    "mtime": 1777206174.0551946,
+    "seen": 1789772417.286653,
+    "ast_hash": "b255a44faf5dff04b0cfb2c8a1eadd2a",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/commands/deploy.md": {
+    "mtime": 1775262783.8407571,
+    "seen": 1789772417.286654,
+    "ast_hash": "d80111d3111876fc8222c60bb05af245",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/commands/fix-issue.md": {
+    "mtime": 1775262774.9689224,
+    "seen": 1789772417.286654,
+    "ast_hash": "b121a4f58b04bc36578693c184838bbe",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/commands/new-feature.md": {
+    "mtime": 1777206192.4110534,
+    "seen": 1789772417.286655,
+    "ast_hash": "effa5cbfd90c491f6a80f8b711d740d4",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/commands/new-migration.md": {
+    "mtime": 1777206181.5167701,
+    "seen": 1789772417.286655,
+    "ast_hash": "acc8748c61bbb738b252e3297b3a3a1d",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/commands/review-tenant-isolation.md": {
+    "mtime": 1777206199.5480313,
+    "seen": 1789772417.286656,
+    "ast_hash": "4264909946e111dabc97cbbde67fbbbd",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/commands/review.md": {
+    "mtime": 1775262779.2909205,
+    "seen": 1789772417.286656,
+    "ast_hash": "bcbb9bc0f23a8086e59fd8e5d6fa31cd",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/commands/test.md": {
+    "mtime": 1777206168.585331,
+    "seen": 1789772417.286657,
+    "ast_hash": "bd884044539191a3a876a7a55623f291",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/rules/api-conventions.md": {
+    "mtime": 1777207524.3569386,
+    "seen": 1789772417.286658,
+    "ast_hash": "9469eb5fc6391868ccffee51c282bef7",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/rules/code-style.md": {
+    "mtime": 1777207507.5887952,
+    "seen": 1789772417.286658,
+    "ast_hash": "95c6dbf2aeae5cb37dc863dfe56c2e1b",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/rules/multi-tenancy.md": {
+    "mtime": 1777207564.5740342,
+    "seen": 1789772417.286659,
+    "ast_hash": "551c34c75d3ea6819f9758ec9504e89f",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/rules/testing.md": {
+    "mtime": 1777207543.5659308,
+    "seen": 1789772417.286659,
+    "ast_hash": "c71537ecb10e01091d09e6b48afcb7ef",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/skills/deploy/SKILL.md": {
+    "mtime": 1777207578.2606122,
+    "seen": 1789772417.2866602,
+    "ast_hash": "bff9c23e6bc6c419c2668a8ef101e91c",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/.claude/skills/security-review/SKILL.md": {
+    "mtime": 1777207595.5149128,
+    "seen": 1789772417.2866602,
+    "ast_hash": "b2a26894432525e59d7e95c33c310ec1",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/CLAUDE.md": {
+    "mtime": 1789767311.5613384,
+    "seen": 1789772417.2866611,
+    "ast_hash": "9aea0771ae2af417c8191e5ddbe34bec",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/README.md": {
+    "mtime": 1777053335.8575664,
+    "seen": 1789772417.2866611,
+    "ast_hash": "0b3187aaef98dab640e365d0243b0c8c",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/docker-compose.yml": {
+    "mtime": 1777053335.8576214,
+    "seen": 1789772417.2866619,
+    "ast_hash": "129b0ff187168e8d297e0156cf6ad79b",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/docs/GUIDE.md": {
+    "mtime": 1777211263.5360959,
+    "seen": 1789772417.2866619,
+    "ast_hash": "196a956d9e28164f1d0c4b95ac625b04",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/docs/TENANTS_USERS_ADMIN.md": {
+    "mtime": 1777235313.8407686,
+    "seen": 1789772417.2866628,
+    "ast_hash": "07cc044e71af54462a1d1610ecd75e6f",
+    "semantic_hash": ""
+  },
+  "stock-mgmt-saas-multi-tenancy/src/main/resources/application.yml": {
+    "mtime": 1789773316.7909894,
+    "seen": 1789773319.6777759,
+    "ast_hash": "a1bd8083d499c95d7bd21b35bf363e08",
+    "semantic_hash": ""
+  }
+}
