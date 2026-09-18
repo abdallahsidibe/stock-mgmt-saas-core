@@ -1,0 +1,49 @@
+# =============================================================
+#  Root Git Ignore Configuration
+# =============================================================
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and Editors
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# Java & Build Tool Outputs
+**/target/
+**/build/
+**/dist/
+**/out/
+.mvn/wrapper/maven-wrapper.jar
+
+# Node / UI Dependencies & Builds
+**/node_modules/
+**/.next/
+**/coverage/
+
+# Environment and Secret Files
+.env
+.env.local
+.env.*.local
+*.pem
+!certs/*.pem.example
+
+# Logs and Runtime Files
+*.log
+logs/
+tmp/
+temp/
